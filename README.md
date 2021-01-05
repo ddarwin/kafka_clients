@@ -2,7 +2,7 @@
 
 ### A set of simple Java Kafka clients (Producer/Consumer) for testing basic capabilities of Kafka. The examples are based on the examples published on Tutorialspoint [here](https://www.tutorialspoint.com/apache_kafka/apache_kafka_simple_producer_example.htm). If you need additional help setting up a Kafka test environment please check out the quickstart instructions at [Apache.org](https://kafka.apache.org/documentation/#quickstart).
 
-To compile and run you will need Java installed and the Kafka Java Client libraries such as those from [Confluent.com](https://docs.confluent.io/platform/current/clients/index.html).
+To compile and run you will need a Java JDK and the Kafka Java client libraries such as those from [Confluent.com](https://docs.confluent.io/platform/current/clients/index.html).
 
 **SimpleProducer.java** is an example that uses Producer.send() to send a message. To compile use the command,
 
